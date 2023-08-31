@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "message-response",
+      "type": "com.cloudnut.payment.api.rest.factory.config.MessageResponseFactory",
+      "sourceType": "com.cloudnut.payment.api.rest.factory.config.MessageResponseFactory"
+    }
+  ],
+  "properties": [
+    {
+      "name": "message-response.params",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.cloudnut.payment.api.rest.factory.config.MessageResponseFactory"
+    }
+  ],
+  "hints": []
+}
